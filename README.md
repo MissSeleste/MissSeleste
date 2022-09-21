@@ -1,7 +1,5 @@
 # 💫 About Me:
-🔭 Working on different PowerShell Scripts in my free time
-💬 IT Nerd
-😄 Pronouns: she/her
+🔭 Working on different PowerShell Scripts in my free time<br>💬 IT Nerd<br>😄 Pronouns: she/her
 
 
 # 💻 Tech Stack:
